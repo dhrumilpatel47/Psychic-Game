@@ -1,1 +1,1 @@
-# Psychic-Game
+This is a psychic game where the computer chooses a letter and the user get 9 tries to guess the letter.
